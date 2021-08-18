@@ -200,8 +200,9 @@ main article .secaoDestaquesUsuario ul li h3{
     transform: scale(1.2);
     border-top: solid 2px #878787;
     background-color: #ebebeb;
-    border-bottom: 5px;
-
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    
 }
 
 
